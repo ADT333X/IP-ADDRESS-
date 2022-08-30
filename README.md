@@ -8,7 +8,7 @@
 
 - apt install git -y
 
-- git clone https://github.com/rajkumardusad/IP-Tracer.git
+- git clone https://github.com/ADT333X/IP-ADDRESS-/tree/main
 
 - cd IP-Tracer
 

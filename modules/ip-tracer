@@ -1,0 +1,11 @@
+# Tool Name :- IP-Address 
+# Author :- DitzzGanzz 
+# Date :- 30/8/2022
+# Powered By :- ADT333X 
+if [ -d /data/data/com.termux/files/usr/share ];then
+  cd /data/data/com.termux/files/usr/share/IP-Tracer
+  exec bash trace $@
+elif [ -d /usr/share ];then
+  cd /usr/share/IP-Tracer
+  exec bash trace $@
+fi

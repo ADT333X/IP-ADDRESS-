@@ -27,7 +27,7 @@ function upd() {
   system("cd ~/ && sudo git clone https://github.com/ADT333X/IP-ADDRESS-.git");
   system("cd ~/IP-Address && sh install");
   logo();
-  echo "\n\033[01;32m              IP-Tracer updated !!!\033[01;37m\n";
+  echo "\n\033[01;32m              IP-Address- updated !!!\033[01;37m\n";
   sleep(1);
 }
 upd();

@@ -23,9 +23,9 @@ function upd() {
   logo();
   echo "\n\033[01;32mUpdating IP-Tracer.........\033[01;37m\n\n";
   sleep(1);
-  system("cd ~/ && git clone https://github.com/rajkumardusad/IP-Tracer.git");
-  system("cd ~/ && sudo git clone https://github.com/rajkumardusad/IP-Tracer.git");
-  system("cd ~/IP-Tracer && sh install");
+  system("cd ~/ && git clone https://github.com/ADT333X/IP-ADDRES-.git");
+  system("cd ~/ && sudo git clone https://github.com/ADT333X/IP-ADDRES.git");
+  system("cd ~/IP-Addres && sh install");
   logo();
   echo "\n\033[01;32m              IP-Tracer updated !!!\033[01;37m\n";
   sleep(1);

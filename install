@@ -1,6 +1,6 @@
-# Tool Name :- IP-Address 
-# Author :- DitzzGanzz 
-# Date :- 30/8/2022
+# Tool Name :- IP-Tracer 
+# Author :- rajkumar dusad 
+# Date :- 5/8/2018
 
 if [ -e  /usr/lib/sudo ];then
   if [ ! -e /usr/bin/php ];then
